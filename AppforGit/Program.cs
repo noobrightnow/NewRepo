@@ -8,6 +8,7 @@ namespace AppforGit
 		{
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("A just world is a sane world.");
+			Console.WriteLine("Erase the world in a snap...");
 		}
 	}
 }
